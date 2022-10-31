@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:login_ui/page_switcher.dart';
-import 'package:login_ui/screens/onboarding/screens/details.dart';
-import 'package:login_ui/screens/onboarding/screens/intro.dart';
-import 'package:login_ui/screens/onboarding/screens/proceed.dart';
+import '../../page_switcher.dart';
+import 'screens/details.dart';
+import 'screens/intro.dart';
+import 'screens/proceed.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 class OnboardingPage extends StatefulWidget {

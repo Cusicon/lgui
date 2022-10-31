@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:login_ui/screens/auth/auth_page.dart';
-import 'package:login_ui/screens/pages/home_page.dart';
+import 'screens/auth/auth_page.dart';
+import 'screens/pages/home_page.dart';
 
 class PageSwitcher extends StatelessWidget {
   const PageSwitcher({super.key});

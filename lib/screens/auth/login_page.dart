@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:login_ui/common/theme_helper.dart';
-import 'package:login_ui/screens/auth/forgot_password_page.dart';
+import '../../common/theme_helper.dart';
+import 'forgot_password_page.dart';
 import 'package:validators/validators.dart';
 
 class LoginPage extends StatefulWidget {

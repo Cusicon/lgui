@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:login_ui/common/theme_helper.dart';
-import 'package:login_ui/page_switcher.dart';
+import '../../../common/theme_helper.dart';
+import '../../../page_switcher.dart';
 import 'package:lottie/lottie.dart';
 
 class ProceedOnboarding extends StatelessWidget {
